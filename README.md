@@ -20,6 +20,22 @@ Use [SCIM](https://satisfactory-calculator.com/) instead.
 
 This is an issue-tracking repo only. While the website is publicly accessible, the code for the UI is not open-source.
 
+#### Where's the issue tracker?
+
+[On GitHub](https://github.com/users/SignpostMarv/projects/1).
+
+#### Where's the website?
+
+While it's still in an experimental phase, over on [tools.satisfactory.video/experimental-production-planner](https://tools.satisfactory.video/experimental-production-planner/)
+
+##### Why's it on a satisfactory.video subdomain instead of a signpostmarv.name subdomain?
+
+Reasons.
+
+###### What are the reasons? 😤
+
+Varied 🤷‍♂️
+
 #### What do you use to make the calculator?
 
 Including but not limited to (and in no particular order):
