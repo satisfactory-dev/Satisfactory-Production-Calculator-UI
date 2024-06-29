@@ -22,26 +22,26 @@ This is an issue-tracking repo only. While the website is publicly accessible, t
 
 #### Where's the issue tracker?
 
-[On GitHub](https://github.com/users/SignpostMarv/projects/1).
+[On GitHub](https://github.com/orgs/satisfactory-dev/projects/1/views/2).
 
 #### Where's the website?
 
-While it's still in an experimental phase, over on [tools.satisfactory.video/experimental-production-planner](https://tools.satisfactory.video/experimental-production-planner/)
+While it's still in an experimental phase, over on [u8.satisfactory.dev/planner/](https://u8.satisfactory.dev/planner/)
 
-##### Why's it on a satisfactory.video subdomain instead of a signpostmarv.name subdomain?
+##### ~~Why's it on a satisfactory.video subdomain instead of a signpostmarv.name subdomain?~~
 
-Reasons.
+I didn't have a more suitable one at the time.
 
-###### What are the reasons? 😤
+###### Why's it on a satisfactory.dev subdomain instead of a signpostmarv.name subdomain?
 
-Varied 🤷‍♂️
+It was available and seemed more suitable than keeping it on tools.satisfactory.video.
 
 #### What do you use to make the calculator?
 
 Including but not limited to (and in no particular order):
 
--   [Docs.json.ts](https://github.com/Satisfactory-Clips-Archive/Docs.json.ts) (available as an [npm package](https://www.npmjs.com/package/@satisfactory-clips-archive/docs.json.ts))
--   [A standalone calculator "library"](https://github.com/signpostMarv/Satisfactory-Production-Calculator) (not yet available as an npm package, but will be eventually)
+-   [Docs.json.ts](https://github.com/satisfactory-dev/Docs.json.ts) (available as an [npm package](https://www.npmjs.com/package/@satisfactory-dev/docs.json.ts))
+-   [A standalone calculator "library"](https://github.com/satisfactory-dev/Satisfactory-Production-Calculator) (not yet available as an npm package, but will be eventually)
 -   [lit-html](https://lit.dev/)
 -   [PostCSS](https://postcss.org/)
 -   [rollup.js](https://rollupjs.org/)
