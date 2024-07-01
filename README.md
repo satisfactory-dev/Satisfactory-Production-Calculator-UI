@@ -10,7 +10,7 @@ People that:
 
 -   [x] Play Satisfactory
 -   [x] Only need to know how many resources are needed
--   [x] Need to track production across multiple faciltiies
+-   [x] Need to track production across multiple facilities
 
 #### What if I need a Satisfactory Production Calculator but I'm not the intended audience?
 
